@@ -90,3 +90,5 @@
 - **Why:**
   - Monitoring ensures database stability and helps catch issues early.
 
+
+Find Assets in ./public/assets
